@@ -1,0 +1,3 @@
+# comments are specified by hash
+# ignore all .txt files
+*.txt
